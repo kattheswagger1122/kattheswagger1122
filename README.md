@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Katrina and I'm a CS student, from New York City</h2>
+<h2 align="left">Hi 👋! My name is Katrina and I'm from New York City!</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
